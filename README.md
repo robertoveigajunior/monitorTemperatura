@@ -1,4 +1,4 @@
-# monitorTemperatura
+# Monitor de temperatura simples
 ### O que isso faz?
 Mostra em um janela a temperatura do processador do raspberry PI 3
 
