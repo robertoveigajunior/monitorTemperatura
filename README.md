@@ -46,7 +46,7 @@ Dentro do arquivo adicione
 @python nome-arquivo.py
 ```
 
-### para testar digite no terminal
+### Para testar digite no terminal
 ```
 python nome-arquivo.py
 
