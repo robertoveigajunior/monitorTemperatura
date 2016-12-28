@@ -8,11 +8,14 @@ Python
 ### Instalando
 Primeiro passo é criar o arquivo .py para ler a temperatura real do processador:
 
+Importe as bibliotecas
 ```
 from Tkinter import *
 from subprocess import check_output
 import time
-
+```
+Em seguida
+```
 root = Tk()
 root.title("log")
 root.attributes("-topmost", True)
